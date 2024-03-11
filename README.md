@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Neel Patel</h1>
-<h3 align="center">A passionate Student/Developer living & Studying in Finland</h3>
+<h3 align="center">A passionate Engineering Student living & Studying in Finland</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neelp2212&label=Profile%20views&color=0e75b6&style=flat" alt="neelp2212" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neelp2212" alt="neelp2212" /></a> </p>
 
-- 🔭 I’m currently working on **polishing my skills**
+- 🔭 I’ve worked as an **Junior Software Developer**
 
 - 🌱 I’m currently learning **Machine Learning AI, Cloud clustered model, LLMS**
 
-- 👯 I’m looking to collaborate on **Development/Cloud/Consultant**
+- 👯 I’m happy to collaborate on **open source projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/neelp2212/](https://github.com/neelp2212/)
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **neel01121@gmail.com**
 
-- ⚡ Fun fact **I am more social as an IT background student**
+- ⚡ Fun fact **Your nose gets warmer when you lie**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
