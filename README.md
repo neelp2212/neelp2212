@@ -11,7 +11,7 @@
 
 - 👯 I’m happy to collaborate on **open source projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/neelp2212/](https://github.com/neelp2212/)
+- 👨‍💻 All of my projects are available at [https://github.com/neelp2212/](https://github.com/neelp2212?tab=repositories)
 
 - 💬 Ask me about **DevOps**
 
