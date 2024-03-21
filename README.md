@@ -7,7 +7,7 @@
 
 - 🔭 I’ve worked as a **Junior Software Developer**
 
-- 🌱 I’m currently learning **Machine Learning AI, Cloud clustered model, LLMS**
+- 🌱 I’m currently learning **Azure Databricks, Azure Data Factory integration using Snowflakes dataase**
 
 - 👯 I’m happy to collaborate on **open source projects**
 
