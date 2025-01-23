@@ -3,7 +3,8 @@
 <h3 align="center">A passionate Engineering Student living & Studying in Finland</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neelp2212&label=Profile%20views&color=0e75b6&style=flat" alt="neelp2212" /> </p>
-<img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/vector-illustration-boy-working-laptop-flat-style-design_1142-83027.jpg">
+<img align="right" alt="Coding" width="400" 
+  src="https://img.freepik.com/premium-vector/vector-illustration-boy-working-laptop-flat-style-design_1142-83027.jpg">
 
 - 🔭 I am working as a **Project Assistant**
 
